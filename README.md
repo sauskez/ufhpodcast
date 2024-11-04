@@ -10,7 +10,7 @@ Interesting placeholder description
 <h2>Infographic</h2>
 
 - <b>HTML</b> 
-- <b>Notepad - The way websites are meant to be created</b>
+- <b>Notepad</b>
 
 <h2>Environments Used </h2>
 
