@@ -1,22 +1,29 @@
-<h1>Project Placeholder #1</h1>
+<h1>Podcast Production : UFH</h1>
 
- ### Things will be going here.
+ ### Listen at your own risk
 
 <h2>Description</h2>
-Interesting placeholder description
+Subscribe to <a href="https://www.universefromhere.com/">UFH PODCAST</a> by clicking the links below
+
+-<a href="https://podcasts.apple.com/us/podcast/ufh-podcast/id1499763382">iTunes & Apple Podcasts</a>
+ 
+-<a href="https://open.spotify.com/show/6AOdWCsKyrJoOJqlNLMF9e?si=hVfCQ-hSRzKujSEBalkL1A&nd=1&dlsi=e2a43ba69bfc4243">Spotify</a>
+
+-<a href="https://overcast.fm/itunes1499763382/ufh-podcast">OverCast</a>
+
+Or search “UFH Podcast” in your favorite podcast app, and I’m probably in there. 
 <br />
 
 
 <h2>Infographic</h2>
 
-- <b>HTML</b> 
-- <b>Interesting pictures</b>
+<img src="https://images.squarespace-cdn.com/content/v1/5db367f49fd6a359726851f1/1583717158204-6WBPQPZN1HQ93AC5Y6SP/UFH+Cover+Art+Final.jpg?format=500w"></img>
 
-<h2>Environments Used </h2>
+<h2>How these things work</h2>
 
-- <b>Windows 11</b>
+- <b>RSS</b>
 
-<h2>Program walk-through:</h2>
+<h2>What makes it possible</h2>
 
 <p align="center">
 <p><img src="https://www.deltaconnected.com/arcdps/notepad.gif"></img></p><br/>
