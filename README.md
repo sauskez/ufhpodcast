@@ -10,7 +10,7 @@ Interesting placeholder description
 <h2>Infographic</h2>
 
 - <b>HTML</b> 
-- <b>Notepad</b>
+- <b>Interesting pictures</b>
 
 <h2>Environments Used </h2>
 
